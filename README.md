@@ -1,5 +1,5 @@
 # AutoEncoder-for-anomaly-detetction
-Trained an autoencoder for anomaly detection in MTVec Screws dataset
+Trained an autoencoder for anomaly detection in MVTec Screws dataset
 
 Code included in Jupyter notebook "AD.ipynb".
 
